@@ -1,5 +1,7 @@
 # Documentation Writer
 
+**Development version: 1.1.0**
+
 An agent skill for producing structured, accurate,
 audience-focused technical documentation.
 
